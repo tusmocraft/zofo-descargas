@@ -1,8 +1,8 @@
 {
-  "launcherVersion": "1.0.0",
+  "launcherVersion": "1.2.5",
   "modpackVersion": "1.0.0",
-  "modpackUrl": "https://github.com/tusmocraft/zofo-launcher/releases/download/modpack-v1.0.0/modpack.zip",
+  "modpackUrl": "https://github.com/tusmocraft/zofo-descargas/releases/download/modpack-v1.0.0/modpack.zip",
   "minecraftVersion": "1.21.11",
   "forgeVersion": "",
-  "notes": "Primera versión del launcher de Zofo Productions"
+  "notas": "Modpack oficial de Zofo Productions"
 }
