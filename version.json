@@ -1,8 +1,9 @@
 {
   "launcherVersion": "1.2.5",
-  "modpackVersion": "1.0.0",
-  "modpackUrl": "https://github.com/tusmocraft/zofo-descargas/releases/download/modpack-v1.0.0/modpack.zip",
+  "modpackVersion": "1.0.1",
+  "modpackName": "El Experimento",
+  "modpackUrl": "https://github.com/tusmocraft/zofo-descargas/releases/download/modpack-v1.0.1/modpack.zip",
   "minecraftVersion": "1.21.11",
   "forgeVersion": "",
-  "notas": "Modpack oficial de Zofo Productions"
+  "notas": "Modpack El Experimento v1.0.1 (25 mods)"
 }
